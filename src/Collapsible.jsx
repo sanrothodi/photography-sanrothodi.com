@@ -15,8 +15,7 @@ const Collapsible = ({ title, children }) => {
           content.style.maxHeight = content.scrollHeight + "px";
         }
       });
-    }
-    );
+    };
 };
 
 
