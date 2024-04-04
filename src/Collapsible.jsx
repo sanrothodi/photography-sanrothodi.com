@@ -18,5 +18,4 @@ const Collapsible = ({ title, children }) => {
     };
 };
 
-
 export default Collapsible;
