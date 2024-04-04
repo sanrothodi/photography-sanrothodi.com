@@ -2,7 +2,7 @@
   "name": "photography.sanrothodi.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sanrothodi.github.io/photography.sanrothodi.com",
+  "homepage": "https://photography.sanrothodi.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

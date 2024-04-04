@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import ImageAbout from "./media/Home/About.jpg";
+
 
 const About = () => {
 
@@ -21,7 +22,7 @@ const About = () => {
           </p>
         </div>
         <div className="about-image">
-          <img className="about-image-size" src={ImageAbout} />
+          <img className="about-image-size" src={ImageAbout} alt="Sanro Photography About Image"/>
         </div>
       </div>
 

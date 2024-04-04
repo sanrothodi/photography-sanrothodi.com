@@ -1,5 +1,4 @@
 import React from "react";
-import sections from "./Sections";
 import { Link } from "react-router-dom";
 import Image1 from "./media/Home/Portrait.jpg";
 import Image2 from "./media/Home/Product.jpg";
