@@ -19,17 +19,17 @@ import image16 from './media/Product/image-16.jpg';
 import image17 from './media/Product/image-17.jpg';
 import image18 from './media/Product/image-18.jpg';
 import image19 from './media/Product/image-19.jpg';
-import image20 from './media/Product/image-20.jpg';
-import image21 from './media/Product/image-21.jpg';
-import image22 from './media/Product/image-22.jpg';
-import image23 from './media/Product/image-23.jpg';
-import image24 from './media/Product/image-24.jpg';
-import image25 from './media/Product/image-25.jpg';
-import image26 from './media/Product/image-26.jpg';
-import image27 from './media/Product/image-27.jpg';
-import image28 from './media/Product/image-28.jpg';
-import image29 from './media/Product/image-29.jpg';
-import image30 from './media/Product/image-30.jpg';
+// import image20 from './media/Product/image-20.jpg';
+// import image21 from './media/Product/image-21.jpg';
+// import image22 from './media/Product/image-22.jpg';
+// import image23 from './media/Product/image-23.jpg';
+// import image24 from './media/Product/image-24.jpg';
+// import image25 from './media/Product/image-25.jpg';
+// import image26 from './media/Product/image-26.jpg';
+// import image27 from './media/Product/image-27.jpg';
+// import image28 from './media/Product/image-28.jpg';
+// import image29 from './media/Product/image-29.jpg';
+// import image30 from './media/Product/image-30.jpg';
 
 const portfolioImages = {
   'image-01.jpg': image01,
@@ -51,17 +51,17 @@ const portfolioImages = {
   'image-17.jpg': image17,
   'image-18.jpg': image18,
   'image-19.jpg': image19,
-  'image-20.jpg': image20,
-  'image-21.jpg': image21,
-  'image-22.jpg': image22,
-  'image-23.jpg': image23,
-  'image-24.jpg': image24,
-  'image-25.jpg': image25,
-  'image-26.jpg': image26,
-  'image-27.jpg': image27,
-  'image-28.jpg': image28,
-  'image-29.jpg': image29,
-  'image-30.jpg': image30,
+  // 'image-20.jpg': image20,
+  // 'image-21.jpg': image21,
+  // 'image-22.jpg': image22,
+  // 'image-23.jpg': image23,
+  // 'image-24.jpg': image24,
+  // 'image-25.jpg': image25,
+  // 'image-26.jpg': image26,
+  // 'image-27.jpg': image27,
+  // 'image-28.jpg': image28,
+  // 'image-29.jpg': image29,
+  // 'image-30.jpg': image30,
 };
 
 const PortfolioGrid = () => {
